@@ -1,0 +1,64 @@
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;
+     font-size: 20;
+	 }
+
+/* Style the header */
+
+.header{
+height: 100px;
+background-color: #c6b8c4;
+border: 2px solid #50e5eb;
+text-align: center;
+}
+
+/* Style the left tab */
+.tab {
+  padding: 5px;
+  float: left;
+  border: 2px solid #ccc;
+  background-color: #f1f1f1;
+  width: 20%;
+  height: 130%;
+  text-decoration: none;
+}
+
+.currenttab {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: left;
+  background-color: #c6b8c4;
+  width: 100%;
+  
+}
+
+
+/* Style the tab content */
+.pagecontent {
+  float: left;
+  padding: 0px 12px;
+  width: 80%;
+  border-left: none;
+  text-align: justify;
+ 
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+
+
+/* Style the footer */
+
+.footer {
+  float: left;
+  background-color: #c6b8c4;
+  border: 2px solid #50e5eb;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  
+  
+}
