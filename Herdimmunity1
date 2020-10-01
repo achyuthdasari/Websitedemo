@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Herd immunity</title>
+<link rel="stylesheet" href="index.css">
+<style>
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+</style>
+</head>
+<body>
+
+<div class="header" >
+
+<h1>Herd Immunity and Corona Vaccine</h1>
+
+</div>
+
+
+
+<div class="tab">
+<h2> List of Contents </h2>
+<text class="currenttab">Herd immunity </text>
+<a href="Herdimmunity2.html" style="text-decoration: none" >Spread with immunity Vs without immunity.</a>
+<a href="Herdimmunity3.html" style="text-decoration: none"><p>Social distancing</p></a>
+<a href="Herdimmunity4.html" style="text-decoration: none"><p>How covid virus is different from others</p></a>
+<a href="Herdimmunity5.html" style="text-decoration: none"><p>Need or Urgency for vaccine</p></a>
+<a href="Herdimmunity6.html" style="text-decoration: none"><p>Progress of Vaccine devolopment</p></a>
+</div>
+
+<div id="content1" class="pagecontent">
+ <h3>Herd Immunity</h3>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herd immunity (also called herd effect, community immunity, population immunity, or social immunity)
+  is a form of indirect protection from infectious disease that occurs when a sufficient percentage of a population has become immune to an infection, 
+  whether through vaccination or previous infections, thereby reducing the likelihood of infection for individuals who lack immunity.
+  Immune individuals are unlikely to contribute to disease transmission, disrupting chains of infection, which stops or slows the spread of disease.
+  The greater the proportion of immune individuals in a community, the smaller the probability that non-immune individuals will come into contact with an infectious individual.</p>
+
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individuals can become immune by recovering from an earlier infection or through vaccination.Some individuals cannot become immune because of medical conditions,
+  such as an immunodeficiency or immunosuppression, and for this group herd immunity is a crucial method of protection. Once the herd immunity threshold has been reached, 
+  disease gradually disappears from a population. This elimination, if achieved worldwide, may result in the permanent reduction in the number of infections to zero,
+  called eradication.[6] Herd immunity created via vaccination contributed to the eventual eradication of smallpox in 1977 and has contributed to the reduction of other diseases.
+  Herd immunity applies only to contagious disease, meaning that it is transmitted from one individual to another.
+  Tetanus, for example, is infectious but not contagious, so herd immunity does not apply.</p>
+
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herd immunity was recognized as a naturally occurring phenomenon in the 1930s when it was observed that after a significant number of children had become immune to measles,
+   the number of new infections temporarily decreased, including among the unvaccinated.[8] Mass vaccination to induce herd immunity has since become common and proved successful
+   in preventing the spread of many infectious diseases.[9] Opposition to vaccination has posed a challenge to herd immunity, allowing preventable diseases to persist in or return 
+   to populations with inadequate vaccination rates </p>
+   
+</div>
+   <img src="800px-Herd_immunity.png" alt="Herd immunity picture" height="400Px" vspace="40Px">
+   
+<div class="footer">
+<marquee> Presentation by Achyuth Dasari  - 2020501025 </marquee>
+</div>
+
+  
+</body>
+</html> 
